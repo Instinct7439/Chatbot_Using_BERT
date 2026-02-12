@@ -1,0 +1,100 @@
+{
+    "title": "Admission Process - DYPIEMR",
+    "sections": [
+        {
+            "title": "Important Dates",
+            "content": [
+                "Application Start Date: June 1, 2025",
+                "Application End Date: July 15, 2025",
+                "First Merit List: July 25, 2025",
+                "Second Merit List: August 5, 2025",
+                "Classes Begin: August 15, 2025"
+            ]
+        },
+        {
+            "title": "Eligibility Criteria",
+            "content": [
+                "Passed HSC/12th with minimum 50% marks (45% for reserved categories)",
+                "Valid JEE Main/MHT-CET score",
+                "Mathematics and Physics as compulsory subjects in 12th",
+                "Age limit as per state government norms"
+            ]
+        },
+        {
+            "title": "Required Documents",
+            "content": [
+                "10th Mark Sheet and Passing Certificate",
+                "12th Mark Sheet and Passing Certificate",
+                "JEE Main/MHT-CET Score Card",
+                "Domicile Certificate (if applicable)",
+                "Category Certificate (if applicable)",
+                "Income Certificate (if applicable)",
+                "Aadhar Card",
+                "Migration Certificate (if applicable)",
+                "4 Recent Passport Size Photographs",
+                "Gap Certificate (if applicable)"
+            ]
+        },
+        {
+            "title": "Application Process",
+            "steps": [
+                {
+                    "step": "Step 1: Online Registration",
+                    "details": [
+                        "Visit official DYPIEMR website",
+                        "Click on 'Admission 2025' link",
+                        "Fill the online application form",
+                        "Upload required documents",
+                        "Pay application fees"
+                    ]
+                },
+                {
+                    "step": "Step 2: Document Verification",
+                    "details": [
+                        "Visit campus with original documents",
+                        "Get documents verified by admission cell",
+                        "Collect verification slip"
+                    ]
+                },
+                {
+                    "step": "Step 3: Merit List & Counseling",
+                    "details": [
+                        "Check merit list on website/notice board",
+                        "Attend counseling as per schedule",
+                        "Select preferred branch based on availability"
+                    ]
+                },
+                {
+                    "step": "Step 4: Fee Payment",
+                    "details": [
+                        "Pay required fees within deadline",
+                        "Submit fee payment receipt",
+                        "Collect provisional admission letter"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Fee Structure",
+            "content": [
+                "Application Fee: ₹1,000",
+                "Tuition Fee: ₹1,06,000 per year",
+                "Development Fee: ₹15,000 per year",
+                "Caution Money Deposit: ₹5,000 (Refundable)",
+                "Hostel Fee (Optional): ₹75,000 per year"
+            ]
+        }
+    ],
+    "contact": {
+        "title": "Contact Information",
+        "details": {
+            "admission_office": "Admission Office, DYPIEMR",
+            "address": "D.Y. Patil Educational Complex, Sector 29, Nigdi Pradhikaran, Akurdi, Pune 411044",
+            "phone": ["+91-20-27654545", "+91-20-27656565"],
+            "email": "admissions@dypiemr.ac.in",
+            "website": "www.dypiemr.ac.in"
+        },
+        "timing": "Monday to Saturday: 09:00 AM to 5:00 PM"
+    },
+    "note": "* All dates are tentative and subject to change. Please keep checking the official website for updates."
+} 

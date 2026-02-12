@@ -1,0 +1,719 @@
+{
+    "intents": [
+        {
+            "tag": "greeting",
+            "patterns": [
+                "Hi",
+                "How are you?",
+                "Is anyone there?",
+                "Hello",
+                "Good day",
+                "What's up",
+                "how are you",
+                "hey",
+                "whatsup",
+                "??? ??? ??"
+            ],
+            "responses": [
+                "Hello!",
+                "Good to see you again!",
+                "Hi there, how can I help?"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "goodbye",
+            "patterns": [
+                "see you",
+                "bye bye",
+                "See you later",
+                "Goodbye",
+                "I am Leaving",
+                "Bye",
+                "Have a Good day",
+                "talk to you later",
+                "i got to go",
+                "gtg"
+            ],
+            "responses": [
+                "Talk to you later",
+                "Goodbye!",
+                "Come back soon"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "creator",
+            "patterns": [
+                "what is the name of your developers",
+                "what is the name of your creators",
+                "what is the name of the developers",
+                "what is the name of the creators",
+                "who created you",
+                "your developers",
+                "your creators",
+                "who are your developers",
+                "developers",
+                "you are made by",
+                "you are made by whom",
+                "who created you",
+                "who create you",
+                "creators",
+                "who made you",
+                "who designed you"
+            ],
+            "responses": [
+                "College students"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "name",
+            "patterns": [
+                "name",
+                "your name",
+                "do you have a name",
+                "what are you called",
+                "what is your name",
+                "what should I call you",
+                "whats your name?",
+                "what are you",
+                "who are you",
+                "who is this",
+                "what am i chatting to",
+                "who am i taking to",
+                "what are you"
+            ],
+            "responses": [
+                "I am a Chatbot.",
+                "I am your helper"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "hours",
+            "patterns": [
+                "timing of college",
+                "what is college timing",
+                "working days",
+                "when are you guys open",
+                "what are your hours",
+                "hours of operation",
+                "when is the college open",
+                "college timing",
+                "what about college timing",
+                "is college open on saturday",
+                "tell something about college timing",
+                "what is the college hours",
+                "when should i come to college",
+                "when should i attend college",
+                "what is my college time",
+                "college timing",
+                "timing college"
+            ],
+            "responses": [
+                "College is open 8am-5pm Monday-Saturday!"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "number",
+            "patterns": [
+                "more info",
+                "contact info",
+                "how to contact college",
+                "college telephone number",
+                "college number",
+                "What is your contact no",
+                "Contact number?",
+                "how to call you",
+                "College phone no?",
+                "how can i contact you",
+                "Can i get your phone number",
+                "how can i call you",
+                "phone number",
+                "phone no",
+                "call"
+            ],
+            "responses": [
+                "You can contact at: +91-20-27654470"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "course",
+            "patterns": [
+                "list of courses",
+                "list of courses offered",
+                "list of courses offered in",
+                "what are the courses offered in your college?",
+                "courses?",
+                "courses offered",
+                "courses offered in (your university(UNI) name)",
+                "courses you offer",
+                "branches?",
+                "courses available at UNI?",
+                "branches available at your college?",
+                "what are the courses in UNI?",
+                "what are branches in UNI?",
+                "what are courses in UNI?",
+                "branches available in UNI?",
+                "can you tell me the courses available in UNI?",
+                "can you tell me the branches available in UNI?",
+                "computer engineering?",
+                "computer",
+                "Computer engineering?",
+                "it",
+                "IT",
+                "Information Technology",
+                "AI/Ml",
+                "Mechanical engineering",
+                "Chemical engineering",
+                "Civil engineering"
+            ],
+            "responses": [
+                "Our university offers computer Engineering, Mechanical engineering, Chemical engineering, Civil engineering, Artificial Intelligence and Data Science and ENTC Engineering."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "fees",
+            "patterns": [
+                "information about fee",
+                "information on fee",
+                "tell me the fee",
+                "college fee",
+                "fee per semester",
+                "what is the fee of each semester",
+                "what is the fees of each year",
+                "what is fee",
+                "what is the fees",
+                "how much is the fees",
+                "fees for first year",
+                "fees",
+                "about the fees",
+                "tell me something about the fees",
+                "What is the fees of hostel",
+                "how much is the fees"
+            ],
+            "responses": [
+                "For fee details visit <a href='https://www.dypiemr.ac.in/academics/fee-structure' target='_blank'>here</a>"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "address",
+            "patterns": [
+                "where is the college located",
+                "college is located at",
+                "where is college",
+                "where is college located",
+                "address of college",
+                "how to reach college",
+                "college location",
+                "college address",
+                "wheres the college",
+                "how can I reach college",
+                "whats is the college address",
+                "what is the address of college",
+                "address",
+                "location"
+            ],
+            "responses": [
+                "Dr. D. Y. Patil Institute Of Engineering, Mannagement And Research, D.Y. Patil Educational Complex, Sector 29, Nigdi Pradhikaran, Akurdi, Pune 411044."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "hostel",
+            "patterns": [
+                "hostel facility",
+                "hostel service",
+                "hostel location",
+                "hostel address",
+                "hostel facilities",
+                "hostel fees",
+                "Does college provide hostel",
+                "Is there any hostel",
+                "Where is hostel",
+                "do you have hostel",
+                "do you guys have hostel",
+                "hostel",
+                "hostel capacity",
+                "what is the hostel fee",
+                "how to get in hostel",
+                "what is the hostel address",
+                "how far is hostel from college",
+                "hostel college distance",
+                "where is the hostel",
+                "how big is the hostel",
+                "distance between college and hostel",
+                "distance between hostel and college"
+            ],
+            "responses": [
+                "For hostel details visit <a href='https://www.dypiemr.ac.in/infrastructure/housing-dining' target='_blank'>here</a>"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "event",
+            "patterns": [
+                "events organised",
+                "list of events",
+                "list of events organised in college",
+                "list of events conducted in college",
+                "What events are conducted in college",
+                "Are there any event held at college",
+                "Events?",
+                "functions",
+                "what are the events",
+                "tell me about events",
+                "what about events"
+            ],
+            "responses": [
+                "For event details visit <a href='https://www.dypiemr.ac.in/campus-life/events' target='_blank'>here</a>"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "document",
+            "patterns": [
+                "document to bring",
+                "documents needed for admission",
+                "documents needed at the time of admission",
+                "documents needed during admission",
+                "documents required for admission",
+                "documents required at the time of admission",
+                "documents required during admission",
+                "What document are required for admission",
+                "Which document to bring for admission",
+                "documents",
+                "what documents do i need",
+                "what documents do I need for admission",
+                "documents needed"
+            ],
+            "responses": [
+                "For admission document requirements visit <a href='https://www.dypiemr.ac.in/admissions/documents-required' target='_blank'>here</a>"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "floors",
+            "patterns": [
+                "building size",
+                "How many floors does college have",
+                "floors in college",
+                "how tall is UNI's College of Engineering college building",
+                "floors"
+            ],
+            "responses": [
+                "My College has total 2 floors "
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "syllabus",
+            "patterns": [
+                "Syllabus for IT",
+                "what is the Information Technology syllabus",
+                "syllabus",
+                "timetable",
+                "what is IT syllabus",
+                "syllabus",
+                "What is next lecture"
+            ],
+            "responses": [
+                "Timetable is provided directly to the students."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "library",
+            "patterns": [
+                "is there any library",
+                "library facility",
+                "library facilities",
+                "do you have library",
+                "does the college have library facility",
+                "college library",
+                "where can i get books",
+                "book facility",
+                "Where is library",
+                "Library",
+                "Library information",
+                "Library books information",
+                "Tell me about library",
+                "how many libraries"
+            ],
+            "responses": [
+                "There is one huge and spacious library, timings are 8am to 5pm and for more details visit <a href='https://www.dypiemr.ac.in/infrastructure/library' target='_blank'>here</a>"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "infrastructure",
+            "patterns": [
+                "how is college infrastructure",
+                "infrastructure",
+                "college infrastructure"
+            ],
+            "responses": [
+                "Our University has Excellent Infrastructure. Campus is clean. Good IT Labs With Good Speed of Internet connection"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "canteen",
+            "patterns": [
+                "food facilities",
+                "canteen facilities",
+                "canteen facility",
+                "is there any canteen",
+                "Is there a cafeteria in college",
+                "Does college have canteen",
+                "Where is canteen",
+                "where is cafeteria",
+                "canteen",
+                "Food",
+                "Cafeteria"
+            ],
+            "responses": [
+                "Our university has canteen with variety of food available"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "menu",
+            "patterns": [
+                "food menu",
+                "food in canteen",
+                "Whats there on menu",
+                "what is available in college canteen",
+                "what foods can we get in college canteen",
+                "food variety",
+                "What is there to eat?"
+            ],
+            "responses": [
+                "we serve Franky, Locho, Alu-puri, Kachori, Khavsa, Thaali and many more on menu"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "placement",
+            "patterns": [
+                "What is college placement",
+                "Which companies visit in college",
+                "What is average package",
+                "companies visit",
+                "package",
+                "About placement",
+                "placement",
+                "recruitment",
+                "companies"
+            ],
+            "responses": [
+                "For placement information: <br>- Placement Activities: <a href='https://www.dypiemr.ac.in/t-p/training-and-placement-activities' target='_blank'>Click here</a> <br>- Placement Statistics: <a href='https://www.dypiemr.ac.in/t-p/placement-statistics' target='_blank'>Click here</a>"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "computerhod",
+            "patterns": [
+                "Who is computer HOD",
+                "Where is computer HOD",
+                "computer hod",
+                "name of computer hod"
+            ],
+            "responses": [
+                "Mrs. Pratiksha Shevtatekar is the HOD of Computer Engineering Department."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "entchod",
+            "patterns": [
+                "Who is ENTC HOD",
+                "Where is ENTC HOD",
+                "entc hod",
+                "name of entc hod",
+                "electronics and telecommunication hod",
+                "electronics hod"
+            ],
+            "responses": [
+                "Dr. Mrs. Arokia Priya Charles is the HOD of Electronics & Telecommunication Engineering Department."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "chemicalhod",
+            "patterns": [
+                "Who is Chemical HOD",
+                "Where is Chemical HOD",
+                "chemical hod",
+                "name of chemical hod"
+            ],
+            "responses": [
+                "Dr. Shailesh A. Ghodke is the HOD of Chemical Engineering Department."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "mechanicalhod",
+            "patterns": [
+                "Who is Mechanical HOD",
+                "Where is Mechanical HOD",
+                "mechanical hod",
+                "name of mechanical hod"
+            ],
+            "responses": [
+                "Dr. Ganesh K Jadhav is the HOD of Mechanical Engineering Department."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "civilhod",
+            "patterns": [
+                "Who is Civil HOD",
+                "Where is Civil HOD",
+                "civil hod",
+                "name of civil hod"
+            ],
+            "responses": [
+                "Dr. Pravin Gorde is the HOD of Civil Engineering Department."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "aidshod",
+            "patterns": [
+                "Who is AIDS HOD",
+                "Where is AIDS HOD",
+                "aids hod",
+                "name of aids hod",
+                "artificial intelligence hod",
+                "data science hod",
+                "ai&ds hod",
+                "artificial intelligence and data science hod"
+            ],
+            "responses": [
+                "Dr. Suvarna Patil is the HOD of Artificial Intelligence & Data Science Department."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "intake_capacity",
+            "patterns": [
+                "what is the intake capacity",
+                "how many seats are there",
+                "number of seats in each branch",
+                "seats available",
+                "branch wise seats",
+                "total seats",
+                "admission capacity",
+                "intake per branch",
+                "how many students per branch",
+                "seats in computer engineering",
+                "seats in mechanical engineering",
+                "seats in civil engineering",
+                "seats in chemical engineering",
+                "seats in AI DS",
+                "seats in ENTC",
+                "capacity of each department",
+                "department capacity",
+                "branch capacity",
+                "total intake",
+                "how much is the intake"
+            ],
+            "responses": [
+                "<div style='font-family: Arial, sans-serif;'><h3 style='color: #0066cc; margin-bottom: 15px;'>Branch-wise Intake Capacity at DYPIEMR:</h3><div style='margin-left: 20px;'><p><strong>Computer Engineering</strong><br>Seats: 120</p><p><strong>Artificial Intelligence and Data Science</strong><br>Seats: 120</p><p><strong>Mechanical Engineering</strong><br>Seats: 120</p><p><strong>Electronics & Telecommunication Engineering</strong><br>Seats: 60</p><p><strong>Civil Engineering</strong><br>Seats: 60</p><p><strong>Chemical Engineering</strong><br>Seats: 60</p></div><hr style='border-top: 1px solid #ccc; margin: 15px 0;'><p style='font-weight: bold; color: #333;'>Total intake capacity: 540 seats per year</p></div>"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "inappropriate_language",
+            "patterns": [
+                "fuck",
+                "shit",
+                "damn",
+                "ass",
+                "bitch",
+                "bastard",
+                "idiot",
+                "stupid",
+                "fool",
+                "moron",
+                "wtf",
+                "stfu",
+                "shut up",
+                "nonsense",
+                "useless",
+                "bloody",
+                "hell"
+            ],
+            "responses": [
+                "Please maintain professional and respectful communication. I'm here to help with college-related queries.",
+                "I understand you might be frustrated, but let's keep our conversation respectful and professional.",
+                "I can assist you better if we communicate respectfully. How may I help you with college-related information?"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "admission_procedure",
+            "patterns": [
+                "how do i apply for admission",
+                "what is the admission procedure",
+                "how to get admission",
+                "how can i get admission",
+                "steps for admission",
+                "admission process steps",
+                "how to apply",
+                "what are the steps for admission",
+                "tell me about admission process",
+                "guide me through admission process",
+                "admission procedure"
+            ],
+            "responses": [
+                "<div style='font-family: Arial, sans-serif;'><h3 style='color: #0066cc; margin-bottom: 15px;'>Admission Procedure for DYPIEMR 2025</h3><div style='margin-left: 20px;'><div style='background-color: #f5f5f5; padding: 10px; border-radius: 5px; margin-bottom: 15px;'><h4 style='color: #333; margin-top: 0;'>Important Dates:</h4><ul style='margin: 0; padding-left: 20px;'><li>Application Start Date: June 1, 2025</li><li>Application End Date: July 15, 2025</li></ul></div><div style='margin-bottom: 15px;'><h4 style='color: #333;'>Step 1: Application</h4><ul style='margin: 0; padding-left: 20px;'><li>Visit the official DYPIEMR website (<a href='www.dypiemr.ac.in' target='_blank'>www.dypiemr.ac.in</a>)</li><li>Click on 'Admissions 2025' and fill out the online application form</li></ul></div><div style='margin-bottom: 15px;'><h4 style='color: #333;'>Step 2: Required Documents</h4><ul style='margin: 0; padding-left: 20px;'><li>HSC/12th Mark sheet</li><li>JEE Main/MHT-CET Score Card</li><li>Domicile Certificate</li><li>Category Certificate (if applicable)</li><li>Aadhar Card</li><li>Recent passport size photographs</li></ul></div><div style='margin-bottom: 15px;'><h4 style='color: #333;'>Step 3: Application Process</h4><ul style='margin: 0; padding-left: 20px;'><li>Complete the online application form</li><li>Upload all required documents</li><li>Pay the application fees</li><li>Submit the form and note your application number</li></ul></div><div style='margin-bottom: 15px;'><h4 style='color: #333;'>Step 4: Merit List & Admission</h4><ul style='margin: 0; padding-left: 20px;'><li>Merit lists will be published on the college website</li><li>Selected candidates must verify documents at the college</li><li>Pay the admission fees within the specified timeline</li><li>Collect your admission confirmation letter</li></ul></div><div style='background-color: #e8f4ff; padding: 10px; border-radius: 5px; margin-top: 15px;'><h4 style='color: #333; margin-top: 0;'>Contact Information:</h4><p style='margin: 0;'>Admission Office: +91-20-27654470<br>Email: admissions@dypiemr.ac.in</p></div><p style='color: #666; font-style: italic; margin-top: 15px;'>Note: Please ensure all documents are ready before starting the application process. Keep checking the college website for updates.</p></div></div>"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "social_links",
+            "patterns": [
+                "social media",
+                "social links",
+                "instagram",
+                "facebook",
+                "youtube",
+                "linkedin",
+                "social handles",
+                "social accounts",
+                "college social media",
+                "college social links",
+                "follow college",
+                "college instagram",
+                "college facebook",
+                "college youtube",
+                "college linkedin"
+            ],
+            "responses": [
+                "<div style='font-family: Arial, sans-serif;'><h3 style='color: #0066cc; margin-bottom: 15px;'>DYPIEMR Social Media Links</h3><div style='margin-left: 20px;'><div style='background-color: #f5f5f5; padding: 15px; border-radius: 5px;'><p style='margin: 10px 0;'><strong>Instagram:</strong> <a href='https://www.instagram.com/dypiemr3/' target='_blank' style='color: #0066cc;'>@dypiemr3</a></p><p style='margin: 10px 0;'><strong>Facebook:</strong> <a href='https://www.facebook.com/profile.php?id=100009857880667' target='_blank' style='color: #0066cc;'>DYPIEMR Akurdi</a></p><p style='margin: 10px 0;'><strong>YouTube:</strong> <a href='https://www.youtube.com/@dypiemrakurdicampus6362' target='_blank' style='color: #0066cc;'>DYPIEMR Akurdi Campus</a></p><p style='margin: 10px 0;'><strong>LinkedIn:</strong> <a href='https://www.linkedin.com/in/dr-d-y-patil-institute-of-engg-management-research-akurdi-90a719b9/' target='_blank' style='color: #0066cc;'>DYPIEMR Akurdi</a></p></div><p style='color: #666; font-style: italic; margin-top: 15px;'>Follow us on social media to stay updated with college news and events!</p></div></div>"
+            ],
+            "context_set": ""
+        }
+    ],
+    "faculty": [
+        {
+            "Name": "Dr. Suvarna Patil",
+            "Designation": "Head Of Department",
+            "Qualification": "Ph.D(Computer Engineering),M.E.(Computer), B.E.(Computer)",
+            "Specialization": "Networking and Internet of Things",
+            "Experience": "Teaching"
+        },
+        {
+            "Name": "Mrs. Sneha Amol Kanawade",
+            "Designation": "Assistant Professor",
+            "Qualification": "M.E (IT), BE (IT), Diploma (CE)",
+            "Specialization": "Cloud Computing, Cyber Security, Datawarehouse, Big Data",
+            "Experience": "Teaching"
+        },
+        {
+            "Name": "Mrs. Deepali Hajare",
+            "Designation": "Assistant Professor",
+            "Qualification": "M.E (CE), BE (CSE)",
+            "Specialization": "Computer Network",
+            "Experience": "Teaching"
+        },
+        {
+            "Name": "Mrs. Varsha Pandagre",
+            "Designation": "Assistant Professor",
+            "Qualification": "M.Tech (CSE), BE (CSE)",
+            "Specialization": "Computer Network",
+            "Experience": "Teaching"
+        },
+        {
+            "Name": "Ms. Arti Singh",
+            "Designation": "Assistant Professor",
+            "Qualification": "M.Tech (CTA), BE (CS)",
+            "Specialization": "Machine Learning, Artificial Intelligence",
+            "Experience": "Teaching"
+        },
+        {
+            "Name": "Mr.Jitendra Garud",
+            "Designation": "Assistant Professor",
+            "Qualification": "PhD Pursuing",
+            "Specialization": "Machine Learning,Linear Algorithm",
+            "Experience": "Teaching"
+        },
+        {
+            "Name": "Ms.Surbhi Dilip Pagar",
+            "Designation": "Assistant Professor",
+            "Qualification": "ME(Computer Engineering)",
+            "Specialization": "Data Mining,Image Processing",
+            "Experience": "Teaching"
+        },
+        {
+            "Name": "Mrs.Kalyani Kute",
+            "Designation": "Assistant Professor",
+            "Qualification": "ME(Computer Engineering)",
+            "Specialization": "Java Programming",
+            "Experience": "Teaching"
+        },
+        {
+            "Name": "Mrs.Reena Sahane",
+            "Designation": "Assistant Professor",
+            "Qualification": "ME(Computer Engineering)",
+            "Specialization": "Machine Learning",
+            "Experience": "Teaching"
+        },
+        {
+            "Name": "Mrs.Priyanka Abhale",
+            "Designation": "Assistant Professor",
+            "Qualification": "ME(Computer Engineering)",
+            "Specialization": "Cloud Computing",
+            "Experience": "Teaching"
+        },
+        {
+            "Name": "Mrs.Abhilasha Bhagat",
+            "Designation": "Assistant Professor",
+            "Qualification": "ME(Computer Engineering)",
+            "Specialization": "Machine Learning",
+            "Experience": "Teaching"
+        },
+        {
+            "Name": "Mrs.Vibhavari Jawale",
+            "Designation": "Assistant Professor",
+            "Qualification": "ME(Computer Engineering)",
+            "Specialization": "Java",
+            "Experience": "Teaching"
+        },
+        {
+            "Name": "Mrs.Jayshri Dhere",
+            "Designation": "Assistant Professor",
+            "Qualification": "ME.(Computer science and Engg.)",
+            "Specialization": "Artificial Intelligence",
+            "Experience": "Teaching"
+        },
+        {
+            "Name": "Mrs.Mital Kadu",
+            "Designation": "Assistant Professor",
+            "Qualification": "M.E Electronic and Telecommunications",
+            "Specialization": "Operating Systems",
+            "Experience": "Teaching"
+        },
+        {
+            "Name": "Mrs.Ashwini Dhumal",
+            "Designation": "Assistant Professor",
+            "Qualification": "ME (VLSI & Embedded systems)",
+            "Specialization": "ML,Networking",
+            "Experience": "Teaching"
+        },
+        {
+            "Name": "Mrs.Sunayana Sutar",
+            "Designation": "Assistant Professor",
+            "Qualification": "ME(EXTC)",
+            "Specialization": "Image Processing",
+            "Experience": "Teaching"
+        }
+    ]
+}

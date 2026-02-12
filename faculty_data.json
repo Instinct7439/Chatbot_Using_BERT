@@ -1,0 +1,600 @@
+{
+    "Departments": [
+        {
+            "Name": "Artificial Intelligence and Data Science",
+            "Overview": "Data Science and Artificial Intelligence are the two most important technologies...",
+            "Course_Details": {
+                "Degree_Offered": "B.E(Artificial Intelligence and Data Science)",
+                "Course_Duration": "4 years",
+                "Year_of_Establishment": "2020",
+                "Intake": "120",
+                "Approved_by": "AICTE, New Delhi",
+                "Affiliated_to": "SPPU, Pune"
+            },
+            "Faculty": [
+                {
+                    "Name": "Dr. Suvarna Patil",
+                    "Designation": "Head Of Department",
+                    "Qualification": "Ph.D(Computer Engineering), M.E.(Computer), B.E.(Computer)",
+                    "Specialization": "Networking and Internet of Things",
+                    "Experience": "Teaching: 18 years"
+                },
+                {
+                    "Name": "Mrs. Sneha Amol Kanawade",
+                    "Designation": "Assistant Professor",
+                    "Qualification": "M.E (IT), BE (IT), Diploma (CE)",
+                    "Specialization": "Cloud Computing, Cyber Security, Datawarehouse, Big Data",
+                    "Experience": "Teaching: 2.5 years"
+                },
+                {
+                    "Name": "Mrs. Deepali Hajare",
+                    "Designation": "Assistant Professor",
+                    "Qualification": "M.E (CE), BE (CSE)",
+                    "Specialization": "Computer Network",
+                    "Experience": "Teaching: 2 years"
+                },
+                {
+                    "Name": "Mrs. Varsha Pandagre",
+                    "Designation": "Assistant Professor",
+                    "Qualification": "M.Tech (CSE), BE (CSE)",
+                    "Specialization": "Computer Network",
+                    "Experience": "Teaching: 2.5 years"
+                },
+                {
+                    "Name": "Ms. Arti Singh",
+                    "Designation": "Assistant Professor",
+                    "Qualification": "M.Tech (CTA), BE (CS)",
+                    "Specialization": "Machine Learning, Artificial Intelligence",
+                    "Experience": "Teaching: 5 years"
+                },
+                {
+                    "Name": "Mr. Jitendra Garud",
+                    "Designation": "Assistant Professor",
+                    "Qualification": "PhD Pursuing",
+                    "Specialization": "Machine Learning, Linear Algorithm",
+                    "Experience": "Teaching: 11 years"
+                },
+                {
+                    "Name": "Ms. Surbhi Dilip Pagar",
+                    "Designation": "Assistant Professor",
+                    "Qualification": "ME(Computer Engineering)",
+                    "Specialization": "Data Mining, Image Processing",
+                    "Experience": "Teaching: 10 years"
+                },
+                {
+                    "Name": "Mrs. Kalyani Kute",
+                    "Designation": "Assistant Professor",
+                    "Qualification": "ME(Computer Engineering)",
+                    "Specialization": "Java Programming",
+                    "Experience": "Teaching: 5 years"
+                },
+                {
+                    "Name": "Mrs. Reena Sahane",
+                    "Designation": "Assistant Professor",
+                    "Qualification": "ME(Computer Engineering)",
+                    "Specialization": "Machine Learning",
+                    "Experience": "Teaching: 8 years"
+                },
+                {
+                    "Name": "Mrs. Priyanka Abhale",
+                    "Designation": "Assistant Professor",
+                    "Qualification": "ME(Computer Engineering)",
+                    "Specialization": "Cloud Computing",
+                    "Experience": "Teaching: 4 years"
+                },
+                {
+                    "Name": "Mrs. Abhilasha Bhagat",
+                    "Designation": "Assistant Professor",
+                    "Qualification": "ME(Computer Engineering)",
+                    "Specialization": "Machine Learning",
+                    "Experience": "Teaching: 3 years"
+                },
+                {
+                    "Name": "Mrs. Vibhavari Jawale",
+                    "Designation": "Assistant Professor",
+                    "Qualification": "ME(Computer Engineering)",
+                    "Specialization": "Java",
+                    "Experience": "Teaching: 11 years & Professional: 2.4 years"
+                },
+                {
+                    "Name": "Mrs. Jayshri Dhere",
+                    "Designation": "Assistant Professor",
+                    "Qualification": "ME.(Computer science and Engg.)",
+                    "Specialization": "Artificial Intelligence",
+                    "Experience": "Teaching: 1 year"
+                },
+                {
+                    "Name": "Mrs. Mital Kadu",
+                    "Designation": "Assistant Professor",
+                    "Qualification": "M.E Electronic and Telecommunications",
+                    "Specialization": "Operating Systems",
+                    "Experience": "Teaching: 2 years"
+                },
+                {
+                    "Name": "Mrs. Ashwini Dhumal",
+                    "Designation": "Assistant Professor",
+                    "Qualification": "ME (VLSI & Embedded systems)",
+                    "Specialization": "ML, Networking",
+                    "Experience": "Teaching: 1 year"
+                },
+                {
+                    "Name": "Mrs. Sunayana Sutar",
+                    "Designation": "Assistant Professor",
+                    "Qualification": "ME(EXTC)",
+                    "Specialization": "Image Processing",
+                    "Experience": "Teaching: 1 year"
+                }
+            ]
+        },
+        {
+            "Name": "Computer Science and Engineering",
+            "Overview": "In view of the revolution in Communication and Computer sector...",
+            "Course_Details": {
+                "Degree_Offered": "B.E (Computer Science and Engineering)",
+                "Course_Duration": "4 years",
+                "Year_of_Establishment": "2012",
+                "Intake": "120",
+                "Approved_by": "AICTE, New Delhi",
+                "Affiliated_to": "SPPU, Pune"
+            },
+            "Faculty": [
+                {
+                    "Name": "Mrs. Pratiksha Shevatekar",
+                    "Designation": "Assistant Professor and Head",
+                    "Qualification": "M.E (Computer Engineering)",
+                    "Specialization": "Distributed Operating Systems, Cloud Computing",
+                    "Experience": "Teaching: 31 years"
+                },
+                {
+                    "Name": "Dr. P. P. Halkarnikar",
+                    "Designation": "Associate Professor",
+                    "Qualification": "Ph.D",
+                    "Specialization": "Image Processing",
+                    "Experience": "Teaching: 34 years"
+                },
+                {
+                    "Name": "Dr. Nalini Jagtap",
+                    "Designation": "Associate Professor",
+                    "Qualification": "Ph.D, M.E.(Computer), B.Tech.(Computer)",
+                    "Specialization": "Image Processing, Machine Learning, Blockchain",
+                    "Experience": "Teaching: 9 years, Professional: 7.5 years"
+                },
+                {
+                    "Name": "Dr. Rashmi Deshpande",
+                    "Designation": "Assistant Professor",
+                    "Qualification": "Ph.D [E & TC], ME[Electronics], BE[E&TC]",
+                    "Specialization": "Communication, Image Processing",
+                    "Experience": "Teaching: 19 years"
+                },
+                {
+                    "Name": "Mrs. Pooja Mishra",
+                    "Designation": "Assistant Professor",
+                    "Qualification": "Ph.D Pursuing, M.E.(Computer), B.E. (Computer)",
+                    "Specialization": "IoT, Cloud Computing",
+                    "Experience": "Teaching: 16 years, Professional: 6 months"
+                },
+                {
+                    "Name": "Ms. Ketaki N. Bhoyar",
+                    "Designation": "Assistant Professor",
+                    "Qualification": "M.E.(CE), B.E.(Computer)",
+                    "Specialization": "Image Processing and IoT",
+                    "Experience": "Teaching: 9 years"
+                },
+                {
+                    "Name": "Mrs. Mohini S. Awatade",
+                    "Designation": "Assistant Professor",
+                    "Qualification": "M.E.(EnTC), B.E. (EnTC)",
+                    "Specialization": "Signal Processing",
+                    "Experience": "Teaching: 11 years"
+                },
+                {
+                    "Name": "Mr. Shivaji R. Vasekar",
+                    "Designation": "Assistant Professor",
+                    "Qualification": "Ph.D (Pursuing), ME (Computer Engg.)",
+                    "Specialization": "Web Technology, Cloud Computing, Distributed System",
+                    "Experience": "Teaching: 10 years"
+                }
+            ]
+        },
+        {
+            "Name": "Electronics & Telecommunication Engineering",
+            "Overview": "The Electronics & Telecommunication Department is established in the Year 2012 to meet the needs of increasing demands of E&TC Engineers in Industry, Telecom Sector, Embedded Technologies & VLSI. The department is having highly qualified, experienced & dedicated faculty along with state-of-the-art infrastructure & well-equipped labs. The teaching-learning process is made student-centric using the latest technologies. The academics go hand in hand with guest lectures by eminent personalities from the industry, alumni students, & subject experts from Savitribai Phule Pune University. The department conducts various co-curricular activities like guest lectures, seminars, workshops, and industrial visits for students to update their technical knowledge. The department helps students develop soft skills and technical skills through extracurricular activities. The department is progressing day by day under the able guidance of Principal Dr. A V Patil, who herself is a Doctorate in Image Processing and has a vast experience of almost 22 years in teaching.",
+            "Course_Details": {
+                "Degree_Offered": "B.E (Electronics & Telecommunication Engineering)",
+                "Course_Duration": "4 years",
+                "Year_of_Establishment": "2012",
+                "Intake": "120",
+                "Approved_by": "AICTE, New Delhi",
+                "Affiliated_to": "SPPU, Pune"
+            },
+            "Faculty": [
+                {
+                    "Name": "Dr. Mrs. Arokia Priya Charles",
+                    "Designation": "H.O.D.(Associate Professor)",
+                    "Qualification": "Ph.D, M.Tech",
+                    "Specialization": "Digital Systems",
+                    "Experience": "Teaching: 19 years"
+                },
+                {
+                    "Name": "Dr. Ajay Paithane",
+                    "Designation": "Associate Professor",
+                    "Qualification": "Ph.D, Post Doctoral Fellowship (PDF) in Electronics and Communication Engineering",
+                    "Specialization": "Image and Signal Processing",
+                    "Experience": "Teaching: 25 years, Professional: 1 year"
+                },
+                {
+                    "Name": "Mr. M. H. Thigale",
+                    "Designation": "CEO, Assistant Professor",
+                    "Qualification": "M.E.",
+                    "Specialization": "Electronics and Telecommunication",
+                    "Experience": "Teaching: 17 years, Professional: 2 years"
+                },
+                {
+                    "Name": "Mrs. Kavita Joshi",
+                    "Designation": "Assistant Professor",
+                    "Qualification": "M.E (Electronics)",
+                    "Specialization": "Image Processing",
+                    "Experience": "Teaching: 31 years, Professional: 5 years"
+                },
+                {
+                    "Name": "Mrs. B. Lakshmipraba",
+                    "Designation": "Assistant Professor",
+                    "Qualification": "Ph.D (Pursuing), M.E. (Applied Electronics)",
+                    "Specialization": "Applied Electronics",
+                    "Experience": "Teaching: 17 years, Professional: 0.5 years"
+                },
+                {
+                    "Name": "Dr. Dnyanada Hire",
+                    "Designation": "Assistant Professor",
+                    "Qualification": "Ph.D (Electronics), M.E. (Electronics)",
+                    "Specialization": "Image Processing",
+                    "Experience": "Teaching: 12 years"
+                },
+                {
+                    "Name": "Mrs. Shital Pawar",
+                    "Designation": "Assistant Professor",
+                    "Qualification": "M.E. (Electronics)",
+                    "Specialization": "Digital Signal Processing",
+                    "Experience": "Teaching: 10 years"
+                },
+                {
+                    "Name": "Mrs. Priyanka Bhosale",
+                    "Designation": "Assistant Professor",
+                    "Qualification": "M.E. (Electronics)",
+                    "Specialization": "VLSI Design",
+                    "Experience": "Teaching: 8 years"
+                },
+                {
+                    "Name": "Mrs. Munmun A. Kakkar",
+                    "Designation": "Assistant Professor",
+                    "Qualification": "Ph.D (Pursuing), M.E. (Digital Communication)",
+                    "Specialization": "Digital Communication",
+                    "Experience": "Teaching: 11 years"
+                },
+                {
+                    "Name": "Mrs. Swati Joshi",
+                    "Designation": "Assistant Professor",
+                    "Qualification": "M.Tech (Micro Electronics & VLSI Design), B.E (Electronics and Instrumentation)",
+                    "Specialization": "VLSI",
+                    "Experience": "Teaching: 11 years"
+                },
+                {
+                    "Name": "Mrs. Manali Pednekar",
+                    "Designation": "Assistant Professor",
+                    "Qualification": "M.E. (E&TC)",
+                    "Specialization": "VLSI & Embedded Systems",
+                    "Experience": "Teaching: 8 years"
+                }
+            ]
+        },
+        {
+            "Name": "Civil Engineering",
+            "Overview": "The Department is incepted in the Year 2013 with intake of 60 students. This is a 4 year fulltime course. To enhance the technical skill of students department has a team of experienced and qualified faculties who are committed to serve students with untiring zeal and enthusiasm. We provide well equipped laboratories to perform experiments and endeavor to provide better teaching facilities in day to come. Department is well set to provide excellent Civil engineers well trained in all aspects and adequately prepared to be accepted globally..",
+            "Course_Details": {
+                "Degree_Offered": "B.E (Civil Engineering)",
+                "Course_Duration": "4 years",
+                "Year_of_Establishment": "2013",
+                "Intake": "60",
+                "Approved_by": "AICTE, New Delhi",
+                "Affiliated_to": "SPPU, Pune"
+            },
+            "Faculty": [
+                {
+                    "Name": "Dr. Pravin Gorde",
+                    "Designation": "Associate Professor and HOD",
+                    "Qualification": "Ph.D",
+                    "Specialization": "Construction Management",
+                    "Experience": "Teaching: 15 years, Professional: 0 years"
+                },
+                {
+                    "Name": "Ms. Amruta Kulkarni",
+                    "Designation": "Assistant Professor",
+                    "Qualification": "Ph.D (Pursuing), M.E. (Structure)",
+                    "Specialization": "Structural Engineering",
+                    "Experience": "Teaching: 17 years, Professional: 0 years"
+                },
+                {
+                    "Name": "Dr. Atul Kolhe",
+                    "Designation": "Associate Professor",
+                    "Qualification": "Ph.D",
+                    "Specialization": "Construction Management",
+                    "Experience": "Teaching: 15 years, Professional: 8 years"
+                },
+                {
+                    "Name": "Tejashri Satish Gulve",
+                    "Designation": "Assistant Professor",
+                    "Qualification": "M.E. (Structural Engineering)",
+                    "Specialization": "Structural Engineering",
+                    "Experience": "Teaching: 12 years"
+                },
+                {
+                    "Name": "Rohit Deshmukh",
+                    "Designation": "Assistant Professor",
+                    "Qualification": "B.E (Civil), M.E. (Construction Management), Ph.D. (Pursuing)",
+                    "Specialization": "Construction Management",
+                    "Experience": "Teaching: 11 years"
+                },
+                {
+                    "Name": "Vaishnavi V. Battul",
+                    "Designation": "Assistant Professor",
+                    "Qualification": "M.Tech, Ph.D. (Pursuing)",
+                    "Specialization": "Structural Engineering",
+                    "Experience": "Teaching: 9 years"
+                },
+                {
+                    "Name": "Priyanka Jawale",
+                    "Designation": "Assistant Professor",
+                    "Qualification": "M.E., Ph.D. (Pursuing)",
+                    "Specialization": "Hydraulics and Water Resource Engineering",
+                    "Experience": "Teaching: 8 years"
+                },
+                {
+                    "Name": "Mr. Shubham E. Chandgude",
+                    "Designation": "Assistant Professor",
+                    "Qualification": "M.E. (Construction Management)",
+                    "Specialization": "Construction Management",
+                    "Experience": "Teaching: 5 years"
+                },
+                {
+                    "Name": "Mr. Vishal Swami",
+                    "Designation": "Assistant Professor",
+                    "Qualification": "M.E. (Structural Engineering)",
+                    "Specialization": "Structural Engineering",
+                    "Experience": "Teaching: 4 years"
+                },
+                {
+                    "Name": "Ms. Pradnya Kulkarni",
+                    "Designation": "Assistant Professor",
+                    "Qualification": "M.Tech (Construction Management)",
+                    "Specialization": "Construction Management",
+                    "Experience": "Teaching: 5 years"
+                }
+            ]
+        },
+        {
+            "Name": "Mechanical Engineering",
+            "Overview": "The Department of Mechanical Engineering, being one of the oldest and finest departments of the college, has a team of highly learned and experienced faculty. With their rich academic and industry experience, they guide students on the latest trends and practical aspects of engineering. The department consistently achieves academic excellence and produces proactive and competent engineers. The four-year B.E. program is designed to meet industry requirements by providing technical knowledge, managerial skills, and exposure to quality management and computers. The department also conducts guest lectures, seminars, industrial visits, and workshops to enhance students' practical and research skills in areas such as thermal engineering, design engineering, and manufacturing processes.",
+            "Course_Details": {
+                "Degree_Offered": "B.E (Mechanical Engineering)",
+                "Course_Duration": "4 years",
+                "Year_of_Establishment": "2012",
+                "Intake": "120",
+                "Approved_by": "AICTE, New Delhi",
+                "Affiliated_to": "SPPU, Pune"
+            },
+            "Faculty": [
+                {
+                    "Name": "Dr. Ganesh K Jadhav",
+                    "Designation": "Associate Professor and HoD",
+                    "Qualification": "Ph.D (Mechanical Engineering)",
+                    "Specialization": "Thermal Engineering, Industrial Ventilation",
+                    "Experience": "Teaching: 12 years"
+                },
+                {
+                    "Name": "Dr. Sunil G. Dambhare",
+                    "Designation": "Professor and Vice Principal",
+                    "Qualification": "Ph.D. (Mechanical Engineering)",
+                    "Specialization": "Production Management, Sustainable Manufacturing",
+                    "Experience": "Teaching: 23 years"
+                },
+                {
+                    "Name": "Dr. Amit M Umbrajkar",
+                    "Designation": "Associate Professor",
+                    "Qualification": "M.E., Ph.D (Mechanical Engineering)",
+                    "Specialization": "Design Engineering, Vibration Analysis",
+                    "Experience": "Teaching: 23 years"
+                },
+                {
+                    "Name": "Dr. Aniket Kolekar",
+                    "Designation": "Associate Professor",
+                    "Qualification": "Ph.D (Metallurgical Engineering), M.Tech (Process Metallurgy)",
+                    "Specialization": "Corrosion, Cathodic Protection, Conducting Polymers, Composites",
+                    "Experience": "Teaching: 8 years, Professional: 2 years"
+                },
+                {
+                    "Name": "Dr. Keval Nikam",
+                    "Designation": "Associate Professor",
+                    "Qualification": "Ph.D (Mechanical Engineering), M.E (Heat Power)",
+                    "Specialization": "Heat Power, Numerical Analysis, Thermal Power Plant",
+                    "Experience": "Teaching: 7 years, Professional: 3.5 years"
+                },
+                {
+                    "Name": "Mrs. Amruta Adwant",
+                    "Designation": "Assistant Professor",
+                    "Qualification": "M.E. (Mechanical)",
+                    "Specialization": "Mechatronics",
+                    "Experience": "Teaching: 12 years, Professional: 2 years"
+                },
+                {
+                    "Name": "Mr. Sushil Gaikwad",
+                    "Designation": "Assistant Professor",
+                    "Qualification": "M.E. (Mechanical)",
+                    "Specialization": "Heat Power Engineering",
+                    "Experience": "Teaching: 8 years, Professional: 2 years"
+                },
+                {
+                    "Name": "Mr. Sandesh Solepatil",
+                    "Designation": "Assistant Professor",
+                    "Qualification": "M.E. (Mechanical), Ph.D. (Pursuing)",
+                    "Specialization": "Design Engineering",
+                    "Experience": "Teaching: 8 years, Professional: 1.5 years"
+                },
+                {
+                    "Name": "Mr. Vikas Dive",
+                    "Designation": "Assistant Professor",
+                    "Qualification": "M.E. (Mechanical), Ph.D. (Pursuing)",
+                    "Specialization": "Design Engineering",
+                    "Experience": "Teaching: 10.5 years"
+                },
+                {
+                    "Name": "Mr. Paresh Kulkarni",
+                    "Designation": "Assistant Professor",
+                    "Qualification": "M.E. (Mechanical)",
+                    "Specialization": "Production Engineering",
+                    "Experience": "Teaching: 8 years, Professional: 1 year"
+                },
+                {
+                    "Name": "Mr. Amol Mali",
+                    "Designation": "Assistant Professor",
+                    "Qualification": "M.E. (Mechanical), Ph.D. (Pursuing)",
+                    "Specialization": "Design Engineering",
+                    "Experience": "Teaching: 8 years, Professional: 2 years"
+                },
+                {
+                    "Name": "Mr. Nitin Motgi",
+                    "Designation": "Assistant Professor",
+                    "Qualification": "M.E. (Mechanical)",
+                    "Specialization": "Design Engineering",
+                    "Experience": "Teaching: 7 years"
+                },
+                {
+                    "Name": "Mr. Chetan R. Pawar",
+                    "Designation": "Assistant Professor",
+                    "Qualification": "M.Tech. (Mechanical)",
+                    "Specialization": "Energy System Engineering",
+                    "Experience": "Teaching: 6.5 years, Professional: 0.5 years"
+                },
+                {
+                    "Name": "Mr. Nitesh Kumar",
+                    "Designation": "Assistant Professor",
+                    "Qualification": "M.Tech",
+                    "Specialization": "Materials Engineering",
+                    "Experience": "Teaching: 5.5 years"
+                },
+                {
+                    "Name": "Mrs. K.V.L Bhuvaneswary",
+                    "Designation": "Assistant Professor",
+                    "Qualification": "M.E.",
+                    "Specialization": "Heat Power",
+                    "Experience": "Teaching: 10 years"
+                },
+                {
+                    "Name": "Mr. Ganesh Gorakh Naik",
+                    "Designation": "Assistant Professor",
+                    "Qualification": "M.E.",
+                    "Specialization": "Heat Power",
+                    "Experience": "Teaching: 11 years"
+                },
+                {
+                    "Name": "Mr. Atul Shahsikant Pradhan",
+                    "Designation": "Assistant Professor",
+                    "Qualification": "M.E.",
+                    "Specialization": "Design Engineering",
+                    "Experience": "Teaching: 9 years"
+                },
+                {
+                    "Name": "Mr. Suchit Deshmukh",
+                    "Designation": "Assistant Professor",
+                    "Qualification": "M.Tech",
+                    "Specialization": "Thermal",
+                    "Experience": "Teaching: 1 year, Professional: 1 year"
+                },
+                {
+                    "Name": "Mrs. Kanchan V. Rajput",
+                    "Designation": "Assistant Professor",
+                    "Qualification": "M.E.",
+                    "Specialization": "Design Engineering",
+                    "Experience": "Teaching: 0.6 years, Professional: 1 year"
+                },
+                {
+                    "Name": "Mr. D K Mohan",
+                    "Designation": "Freelancer Trainer",
+                    "Qualification": "B.E. (Mechanical Engineering)"
+                },
+                {
+                    "Name": "Mr. Shivdas Dandge",
+                    "Designation": "Quality Manager, Atlas Copco",
+                    "Qualification": "Ph.D (Mechanical Engineering)"
+                },
+                {
+                    "Name": "Mr. Raghu Nair",
+                    "Designation": "Head of Industry, Forbes Marshall",
+                    "Qualification": "M.E. (Heat Power)"
+                }
+            ]
+        },
+        {
+            "Name": "Chemical Engineering",
+            "Overview": "Chemical Engineering integrates principles of chemistry, physics, biology, and mathematics to develop efficient processes for converting raw materials into valuable products. It plays a vital role in industries such as petrochemicals, pharmaceuticals, environmental engineering, renewable energy, and nanotechnology. Chemical engineers contribute to process optimization, pollution control, resource conservation, and the design of safe and cost-effective production methods.",
+            "Course_Details": {
+                "Degree_Offered": "B.E (Chemical Engineering)",
+                "Course_Duration": "4 years",
+                "Year_of_Establishment": "2012",
+                "Intake": "60",
+                "Approved_by": "AICTE, New Delhi",
+                "Affiliated_to": "SPPU, Pune"
+            },
+            "Faculty": [
+                {
+                    "Name": "Dr. Shailesh A. Ghodke",
+                    "Designation": "Associate Professor & HOD",
+                    "Qualification": "M.Tech, Ph.D (Chemical Engg.)",
+                    "Specialization": "Process Intensification, Separation Processes, Nanofiltration",
+                    "Experience": "Teaching: 15 years 7 months"
+                },
+                {
+                    "Name": "Dr. Utkarsh Maheshwari",
+                    "Designation": "Associate Professor",
+                    "Qualification": "Ph.D.(Chemical), FWRA, FICCE, LMIIChE, SMAIChE, AMIChemE",
+                    "Specialization": "Adsorption, Environmental Engineering, Petrochemical Technology, Modeling & Simulation, Optimization",
+                    "Experience": "Teaching: 13 years, Professional: 1 year"
+                },
+                {
+                    "Name": "Dr. Mrs. Sunita S. Patil",
+                    "Designation": "Assistant Professor",
+                    "Qualification": "Ph.D.",
+                    "Specialization": "Natural Products Extraction, Process Modeling & Optimization, Advanced Separation Techniques",
+                    "Experience": "Teaching: 12.5 years, Professional: 4 years"
+                },
+                {
+                    "Name": "Mr. Dhundiraj P. Deshpande",
+                    "Designation": "Assistant Professor",
+                    "Qualification": "M.Tech (Petrochemical Engineering)",
+                    "Specialization": "Bio-fuel, Petroleum Refining, Mass Transfer",
+                    "Experience": "Teaching: 11 years"
+                },
+                {
+                    "Name": "Dr. Mrs. Kirti B. Zare",
+                    "Designation": "Assistant Professor",
+                    "Qualification": "M.Tech (Chemical Engineering), Ph.D (Chemical Engineering)",
+                    "Specialization": "Chemical Engineering Design, Reaction Engineering",
+                    "Experience": "Teaching: 8.5 years, Professional: 1 year"
+                },
+                {
+                    "Name": "Mrs. Shubhangi S. Patil",
+                    "Designation": "Assistant Professor",
+                    "Qualification": "M.Tech (Chemical Engineering)",
+                    "Specialization": "Modeling & Simulation, Separation Techniques",
+                    "Experience": "Teaching: 8.6 years"
+                },
+                {
+                    "Name": "Mr. Shrikant K. Nanwatkar",
+                    "Designation": "Assistant Professor",
+                    "Qualification": "M.Tech",
+                    "Specialization": "Absorption Process, Extraction, Pyrolysis",
+                    "Experience": "Teaching: 4.5 years, Professional: 1 year"
+                }
+            ]
+        }
+    ]
+}
